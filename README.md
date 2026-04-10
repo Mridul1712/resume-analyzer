@@ -51,3 +51,6 @@ pip install -r requirements.tx
 
 3. Open in browser:
 http://127.0.0.1:5000/
+
+4. Live demo link:
+https://resume-analyzer-wc0h.onrender.com
